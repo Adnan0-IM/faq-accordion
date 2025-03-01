@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Adnan0-IM/faq-accordion)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://faq-accordionns.netlify.app/)
 
 ## My process
 
